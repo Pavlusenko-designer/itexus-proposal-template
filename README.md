@@ -21,7 +21,7 @@ Use the presentation controls for navigation, overview, fullscreen, help and pri
 - Coinstar digital wallet and credit union onboarding case studies, with original product visuals and results.
 - Website, project and partnership email, six social profiles and Clutch link.
 
-Integration provider logos and collaboration app icons are embedded from the PDF. Strengths and reporting use matching line icons. The agile diagram closes the sprint loop; the quality diagram uses a pointed testing pyramid with a manual-testing cloud. Code tools have labelled icons, including official SonarQube, ESLint and Bandit artwork.
+Integration provider logos and collaboration app icons are embedded from the PDF. Strengths and reporting use matching line icons. The agile diagram closes the sprint loop; the quality slide presents three automated testing practices alongside manual product testing. Code tools have labelled icons, including official SonarQube, ESLint and Bandit artwork.
 
 See [SOURCE-CONTENT.md](SOURCE-CONTENT.md) for the page-by-page content map and editing notes. Figures follow the supplied company presentation: **130+ specialists** and **170+ clients** are different measures. The source's historical provider names, collaboration tools and recognition are retained, with context in Help.
 
