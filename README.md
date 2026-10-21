@@ -10,6 +10,15 @@ Open `index.html` in a browser. No installation or build step is needed. Fonts, 
 
 Use the presentation controls for navigation, overview, fullscreen, help and print/PDF. Content and branding sources are recorded in the presentation’s Help panel.
 
+## Presentation options and PDFs
+
+| Option | Editable HTML | PDF | Slides |
+| --- | --- | --- | --- |
+| General company introduction | [index.html](index.html) | [General introduction PDF](output/pdf/itexus-introduction.pdf) | 25 |
+| Wealth management | [wealth-management.html](wealth-management.html) | [Wealth management PDF](output/pdf/itexus-wealth-management.pdf) | 27 |
+
+The wealth option introduces investor and advisor capabilities, puts Orion Advisor in the integration experience, adds a published wealth-advisory platform case, and incorporates the user-supplied Orion integration detail in both existing cases. All company figures and the original delivery content remain. See [WEALTH-VARIANT.md](WEALTH-VARIANT.md) for changes and source provenance.
+
 ## Content
 
 - Company overview, team, client figures, geography and partner ecosystem.
@@ -40,6 +49,8 @@ Edit `index.html` directly. Slides have readable HTML content, `data-title` labe
 - Review every slide at 16:9 and check the browser's print/PDF output.
 
 The deck has been checked in Chromium for all 25 slides, keyboard navigation, overview, Help, offline assets, phone and laptop viewport fit, and 25-page print output.
+
+The wealth option has the same checks across 27 slides. Both saved PDFs were rendered and inspected, with one 16:9 slide per page and correct page numbering. PDF links remain interactive.
 
 ## Hosting
 
