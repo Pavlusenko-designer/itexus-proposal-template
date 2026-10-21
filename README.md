@@ -4,6 +4,8 @@ A self-contained, offline HTML presentation for medium and large software develo
 
 ## Open the presentation
 
+[View the live presentation](https://pavlusenko-designer.github.io/itexus-proposal-template/)
+
 Open `index.html` in a browser. No installation or build step is needed. Fonts, logos and case-study visuals are embedded.
 
 Use the presentation controls for navigation, overview, fullscreen, help and print/PDF. Content and branding sources are recorded in the presentation’s Help panel.
@@ -38,7 +40,9 @@ Client-specific content stays on its client branch. Merge only reusable template
 
 ## Hosting
 
-The presentation is a static file and can be hosted without a build step. If GitHub Pages is enabled, it serves the repository’s `main` branch; pushing a client branch does not replace the template site.
+GitHub Pages serves the presentation from the root of `main`. Updates pushed to `main` publish automatically. Pushing a client branch does not replace the template site.
+
+The repository is public, including all branches. Use a separate private repository for confidential customer proposals.
 
 ## Branding and source material
 
