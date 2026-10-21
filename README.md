@@ -1,6 +1,6 @@
 # Itexus introduction presentation
 
-A self-contained, offline company introduction built from the supplied **Itexus presentation.pdf**, using the existing proposal template. This branch contains 23 slides and retains every substantive block from the 18-page source.
+A self-contained, offline company introduction built from the supplied **Itexus presentation.pdf**, using the existing proposal template. This branch contains 25 slides, retains every substantive block from the 18-page source, and includes the original repository's two fintech case studies.
 
 Branch: `codex/intro-presentation`. The reusable 31-slide commercial proposal remains on `main`.
 
@@ -18,7 +18,10 @@ Use the presentation controls for navigation, overview, fullscreen, help and pri
 - Presales, discovery, development, testing, UAT and rollout deliverables.
 - Discovery activities for the project manager, business analyst, architect and designer.
 - Agile methodology, communication, coding standards, reporting, QA and support.
+- Coinstar digital wallet and credit union onboarding case studies, with original product visuals and results.
 - Website, project and partnership email, six social profiles and Clutch link.
+
+Integration provider logos and collaboration app icons are embedded from the PDF. Strengths and reporting use matching line icons. The agile diagram closes the sprint loop; the quality diagram uses a pointed testing pyramid with a manual-testing cloud. Code tools have labelled icons, including official SonarQube, ESLint and Bandit artwork.
 
 See [SOURCE-CONTENT.md](SOURCE-CONTENT.md) for the page-by-page content map and editing notes. Figures follow the supplied company presentation: **130+ specialists** and **170+ clients** are different measures. The source's historical provider names, collaboration tools and recognition are retained, with context in Help.
 
@@ -36,7 +39,7 @@ Edit `index.html` directly. Slides have readable HTML content, `data-title` labe
 - Preserve the source content map when adding or reorganizing content.
 - Review every slide at 16:9 and check the browser's print/PDF output.
 
-The deck has been checked in Chromium for all 23 slides, keyboard navigation, overview, Help, offline assets, phone and laptop viewport fit, and 23-page print output.
+The deck has been checked in Chromium for all 25 slides, keyboard navigation, overview, Help, offline assets, phone and laptop viewport fit, and 25-page print output.
 
 ## Hosting
 
@@ -46,4 +49,4 @@ The repository is public, including all branches. Use a separate private reposit
 
 ## Branding and source material
 
-Company content, photographs and recognition artwork come from the supplied `Itexus presentation.pdf`; the branding, Inter fonts, controls, slide framework and specialist photograph come from the existing HTML proposal template. The source PDF is a local reference and is not required to open the deck. No additional license is granted for third-party assets by this repository.
+Company content, integration logos, collaboration icons, photographs and recognition artwork come from the supplied `Itexus presentation.pdf`; the branding, Inter fonts, controls, slide framework, specialist photograph and two case studies come from the existing HTML proposal template. Additional tool artwork and its provenance are documented in Help and [SOURCE-CONTENT.md](SOURCE-CONTENT.md). The source PDF is a local reference and is not required to open the deck. No additional license is granted for third-party assets by this repository.
