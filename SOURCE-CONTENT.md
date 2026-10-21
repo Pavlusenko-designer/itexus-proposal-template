@@ -47,7 +47,7 @@ The PDF supplies company introduction content; the existing HTML proposal suppli
 - Bandit uses the project's [official logomark](https://github.com/PyCQA/bandit/tree/main/logo). Flake8 uses a labelled code-check symbol in the presentation's line icon style.
 - Strengths and daily/weekly/monthly reporting use semantic line icons matching the existing template.
 - The agile diagram now connects sprint review back to the product backlog, showing feedback and retrospective outcomes shaping the next sprint.
-- The quality diagram is an SVG triangle with aligned outer slopes, three automated testing levels, and a manual-testing cloud above the pointed peak.
+- The quality diagram is an SVG triangle with aligned outer slopes, three automated testing levels, and a rounded manual-testing cloud resting directly on the peak, following the supplied visual reference.
 - Case studies retain their original repository text, metrics, images and links: [Coinstar wallet](https://itexus.com/portfolio/digital-wallet-and-app-ecosystem-for-coinstar-a-2-2b-global-fintech-firm/) and [credit union onboarding](https://itexus.com/portfolio/digital-onboarding-platform-for-a-credit-union/). Results are company-reported claims from those existing case slides, not newly measured outcomes.
 
 ## Template retained
