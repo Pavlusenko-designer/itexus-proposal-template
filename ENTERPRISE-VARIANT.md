@@ -7,11 +7,11 @@ Editable source: `enterprise.html`. Saved PDF: `output/pdf/itexus-enterprise.pdf
 - Enterprise software development positioning on the cover, overview divider and "Who we are" slide, with emphasis on native Windows and cloud .NET development.
 - Microsoft partnership added to the technology partners on slide 4.
 - A dedicated enterprise experience slide (5): native Windows applications, enterprise web platforms, process automation, document and data management, IoT and operations monitoring, and legacy modernization.
-- Original fintech domains retained on slide 6.
+- Slide 6, "Our enterprise expertise domains", replaces the 12 fintech domains with 12 enterprise domains: back-office automation, document management, energy and utilities, IoT and industrial systems, construction, HR and workforce, healthcare operations, insurance, legal and case management, retail and e-commerce, enterprise AI and productivity, and business intelligence. Each maps to published Itexus portfolio projects (for example the billing, energy, document management, claims management, legal case migration to .NET, HR platform and AI database navigator cases). Icons are from [Lucide](https://lucide.dev/) (lucide-static 0.460.0, ISC license), matching the deck’s existing line icons.
 - A new integration slide (7), "Integration expertise: Microsoft & Azure", with the Microsoft partnership and Azure services for cloud hosting, data, identity and messaging, DevOps and AI. All nine original integration categories remain on slides 8–9.
 - The first and fourth strengths are reframed as "Enterprise-grade delivery" and "Microsoft technology depth".
 - Three enterprise case studies (slides 25–27) replace the Coinstar and credit union fintech cases, followed by contacts on slide 28.
-- All original delivery, discovery, cooperation, communication, engineering, reporting, QA and support content retained.
+- Apart from the fintech domain list, all original delivery, discovery, cooperation, communication, engineering, reporting, QA and support content retained.
 
 ## Claim provenance
 
