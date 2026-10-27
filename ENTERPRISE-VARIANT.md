@@ -8,9 +8,9 @@ Editable source: `enterprise.html`. Saved PDF: `output/pdf/itexus-enterprise.pdf
 - Microsoft partnership added to the technology partners on slide 4.
 - A dedicated enterprise experience slide (5): native Windows applications, enterprise web platforms, process automation, document and data management, IoT and operations monitoring, and legacy modernization.
 - Slide 6, "Our enterprise expertise domains", replaces the 12 fintech domains with 12 enterprise domains: back-office automation, document management, energy and utilities, IoT and industrial systems, construction, HR and workforce, healthcare operations, insurance, legal and case management, retail and e-commerce, enterprise AI and productivity, and business intelligence. Each maps to published Itexus portfolio projects (for example the billing, energy, document management, claims management, legal case migration to .NET, HR platform and AI database navigator cases). Icons are from [Lucide](https://lucide.dev/) (lucide-static 0.460.0, ISC license), matching the deck’s existing line icons.
-- A new integration slide (7), "Integration expertise: Microsoft & Azure", with the Microsoft partnership and Azure services for cloud hosting, data, identity and messaging, DevOps and AI. All nine original integration categories remain on slides 8–9.
+- A new integration slide (7), "Integration expertise: Microsoft & Azure", with the Microsoft partnership and Azure services for cloud hosting, data, identity and messaging, DevOps and AI. The finance integrations slide (bank aggregators, trading platforms, financial data providers and display) is removed as not relevant to enterprise. The services integrations (KYC & AML, payment gateways, email & SMS, speech recognition, maps) remain on slide 8.
 - The first and fourth strengths are reframed as "Enterprise-grade delivery" and "Microsoft technology depth".
-- Three enterprise case studies (slides 25–27) replace the Coinstar and credit union fintech cases, followed by contacts on slide 28.
+- Three enterprise case studies (slides 24–26) replace the Coinstar and credit union fintech cases, followed by contacts on slide 27.
 - Apart from the fintech domain list, all original delivery, discovery, cooperation, communication, engineering, reporting, QA and support content retained.
 
 ## Claim provenance
@@ -19,9 +19,9 @@ The cases come from the Enterprise filter of the [Itexus portfolio](https://itex
 
 | Slide | Case | Published facts used |
 | --- | --- | --- |
-| 25 | [Autonomous B2B Billing & Payments Platform](https://itexus.com/portfolio/autonomous-b2b-billing-payments-platform-for-a-global-fintech-provider/) | .NET 6, Angular, Azure, Clean Architecture and CQRS, KYB, Xero and QuickBooks; 100,000+ invoices per month; $10M+ monthly payment volume |
-| 26 | [Energy Resources Consumption Management System](https://itexus.com/portfolio/enegry-resources-consumption-management-system/) | .NET, MS SQL Server, Azure; BI, 3D visualization and administration modules; up to 100,000 devices; hundreds of millions of records; two years; 1 PM, 1 BA, 1 QA, 4 developers |
-| 27 | [Document Management System](https://itexus.com/portfolio/document-management-system/) | .NET with iOS/Android apps; access from each work station; classification, version control, notifications; daily backups of revisions; PDF viewer and map-based search |
+| 24 | [Autonomous B2B Billing & Payments Platform](https://itexus.com/portfolio/autonomous-b2b-billing-payments-platform-for-a-global-fintech-provider/) | .NET 6, Angular, Azure, Clean Architecture and CQRS, KYB, Xero and QuickBooks; 100,000+ invoices per month; $10M+ monthly payment volume |
+| 25 | [Energy Resources Consumption Management System](https://itexus.com/portfolio/enegry-resources-consumption-management-system/) | .NET, MS SQL Server, Azure; BI, 3D visualization and administration modules; up to 100,000 devices; hundreds of millions of records; two years; 1 PM, 1 BA, 1 QA, 4 developers |
+| 26 | [Document Management System](https://itexus.com/portfolio/document-management-system/) | .NET with iOS/Android apps; access from each work station; classification, version control, notifications; daily backups of revisions; PDF viewer and map-based search |
 
 Each case uses its original published visual.
 
@@ -43,6 +43,6 @@ Microsoft Azure, .NET and SQL Server artwork is embedded from itexus.com (`/imag
 
 ## Validation
 
-- 28 slides with correct numbering; no images failed to load.
+- 27 slides with correct numbering; no images failed to load.
 - Every slide checked in Chromium for content overflowing the slide or crossing the footer. Case slides keep the same footer clearance as the original cases.
-- PDF: 28 pages at the same 16:9 page size as the other options.
+- PDF: 27 pages at the same 16:9 page size as the other options.
