@@ -16,6 +16,9 @@ Use the presentation controls for navigation, overview, fullscreen, help and pri
 | --- | --- | --- | --- |
 | General company introduction | [index.html](index.html) | [General introduction PDF](output/pdf/itexus-introduction.pdf) | 25 |
 | Wealth management | [wealth-management.html](wealth-management.html) | [Wealth management PDF](output/pdf/itexus-wealth-management.pdf) | 27 |
+| Enterprise | [enterprise.html](enterprise.html) | [Enterprise PDF](output/pdf/itexus-enterprise.pdf) | 28 |
+
+The enterprise option is on the `codex/enterprise-presentation` branch. It focuses on native Windows and cloud .NET development, adds the Microsoft partnership and an "Integration expertise: Microsoft & Azure" slide, and replaces the fintech cases with three .NET enterprise cases from the Itexus portfolio. See [ENTERPRISE-VARIANT.md](ENTERPRISE-VARIANT.md) for changes and which wording needs confirmation.
 
 The wealth option introduces investor and advisor capabilities, puts Orion Advisor in the integration experience, adds a published wealth-advisory platform case, and incorporates the user-supplied Orion integration detail in both existing cases. All company figures and the original delivery content remain. See [WEALTH-VARIANT.md](WEALTH-VARIANT.md) for changes and source provenance.
 
